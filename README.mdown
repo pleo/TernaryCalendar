@@ -1,6 +1,6 @@
 <dl>
   <dt>Ternary calendar</dt>
-  <dt>This is a calendar in a ternary numeral system for X11 window managers.</dt>
+  <dd>This is a calendar in a ternary numeral system for X window managers.</dd>
   <dt>How to use it</dt>
   <dd>Execute the script file in bash.</dd>
   <dt>Customization</dt>
