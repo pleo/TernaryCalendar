@@ -1,0 +1,10 @@
+<dl>
+  <dt>Ternary calendar</dt>
+  <dt>This is a calendar in a ternary numeral system for X11 window managers.</dt>
+  <dt>How to use it</dt>
+  <dd>Execute the script file in bash.</dd>
+  <dt>Customization</dt>
+  <dd>For a different position on the screen, change x and y arguments value in a line where dzen2 is invoked (at the end of the script file).</dd>
+  <dt>License</dt>
+  <dd>Except as otherwise noted, this project is licensed under GPL license, version 3</dd>
+</dl>
